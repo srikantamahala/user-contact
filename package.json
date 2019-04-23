@@ -1,0 +1,21 @@
+{
+  "name": "user-contact",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/user-contact.umd.js",
+  "module": "fesm5/user-contact.js",
+  "es2015": "fesm2015/user-contact.js",
+  "esm5": "esm5/user-contact.js",
+  "esm2015": "esm2015/user-contact.js",
+  "fesm5": "fesm5/user-contact.js",
+  "fesm2015": "fesm2015/user-contact.js",
+  "typings": "user-contact.d.ts",
+  "metadata": "user-contact.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
